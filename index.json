@@ -281,6 +281,7 @@
     "date":"30/09/2022"
     },
     {
+    "institute_name": "Visvesvaraya National Institute Of Technology",
 
     "institute_name": "Amrita Vishwa Vidyapeetham",
     "location":"india",
@@ -333,8 +334,6 @@
     },
     {
     "id":28,
-
-   
     "institute_name": "Lokmanya Tilak Municipal Medical College Sion, Mumbai",
     "location":"india",
     "yourDescription":"student",
@@ -347,6 +346,7 @@
     "id":29,
 
     "institute_name": "National Institute of Technology,Nagpur",
+
     "location":"india",
     "yourDescription":"student",
     "about":"academic",
@@ -363,6 +363,7 @@
     "rating":"4.2/5",
     "date":"1/10/2022"
     },
+
     {
     "id":30,
     "institute_name": "Shri Guru Gobind Singhji Institute of Engineering and Technology Nanded",
@@ -372,6 +373,7 @@
     "review":"SGGS has maintained a very good profile since last some years",
     "rating":"4.1/5"
     },
+
     {
     "id":31,
     "institute_name": "Indian Institute of Technology,Jodhpur",
@@ -383,6 +385,16 @@
     "date":"30/09/2021"
     },
     {
+    "id":35,
+    "institute_name": "Faculty of Management Studies",
+    "location":"India",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Best management college in India",
+    "rating":"5/5",
+    "date":"30/09/2022"
+    },
+{
     "id":32,
     "institute_name": "Indraprastha Institute of Information Technology",
     "location":"india",
@@ -477,16 +489,16 @@
     "review":"Best college for Arts & Literature",
     "rating":"4.8/5",
     "date":"30/09/2022"
-   },
-{
-    "id":26,
-    "institute_name": "Dr. DY Patil Institute of Technology",
-    "location":"India",
-    "yourDescription":"Student",
-    "about":"Academic",
-    "review":"Great Infra and Opportunities",
-    "rating":"4.5/5"
-},
+    },
+    {
+        "id":26,
+        "institute_name": "Dr. DY Patil Institute of Technology",
+        "location":"India",
+        "yourDescription":"Student",
+        "about":"Academic",
+        "review":"Great Infra and Opportunities",
+        "rating":"4.5/5"
+    },
     
     {
     "id":24,
@@ -519,6 +531,7 @@
     "rating":"4.8/5",
     "date":"30/09/2022"
     },
+
     {
     "id":7008,
     "institute_name": "S.V.P.M.'s ITE Malegaon Bk.",
@@ -540,3 +553,16 @@
     "date":"01/10/2022"
   
  }
+
+{
+    "id":27,
+    "institute_name": "Sinhagad College of Engineering Pune",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"college for Engineering in Pune",
+    "rating":"4.5/5",
+    "date":"30/09/2022"
+    }
+]
+
