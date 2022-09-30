@@ -425,6 +425,29 @@
     "rating":"4.9/5",
     "date":"30/09/2022"
     },
+    
+    
+    {
+    "id":15,
+    "institute_name": "sharad institute of technology",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"autonaoumus institute",
+    "rating":"2/5",
+    "date":"30/09/2022"
+    },
+    
+     {
+    "id":16,
+    "institute_name": "walchand institute solapur",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":" best autonaoumus institute",
+    "rating":"3/5",
+    "date":"30/09/2022"
+    },
 
 
     {
