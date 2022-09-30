@@ -601,6 +601,17 @@
     "review":"one of the top 5 colleges for chemical engineering",
     "rating":"4.2/5",
     "date":"30/09/2022"
-    }   
+    },
+    
+      {
+    "id":30,
+    "institute_name": "Walchand College of Engineering Sangli",
+    "location":"India",
+    "yourDescription":"Student",
+    "about":"Academic",
+    "review":"Great Infra and Opportunities with amazing placements",
+    "rating":"4.5/5",
+    "date":"01/10/2022"
+    },
 ]
 
