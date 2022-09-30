@@ -40,7 +40,7 @@ date: enter date at time of writing review Eg. "29/09/2022" .
   "id":0,
   "institute_name": "walchand college of engineering, sangli",
   "location": "india",
-  "your description": "student",
+  "yourDescription": "student",
   "about": "academic",
   "review": "Best college for Engineering",
   "rating": "4.0/5",

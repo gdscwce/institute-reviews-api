@@ -37,7 +37,7 @@ path: `index.json`
 "id":0,
 "institute_name": "walchand college of engineering, sangli",
 "location":"india",
-"your description":"student",
+"yourDescription":"student",
 "about":"academic",
 "review":"Best college for Engineering",
 "rating":"4.0/5",
