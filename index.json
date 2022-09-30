@@ -151,16 +151,18 @@
     "rating":"5/5",
     "date":"30/09/2022"
     },
-    {
-    "id":14,
-    "institute_name": "Indian Institute of Technology, Guwahati",
-    "location":"india",
+
+     {
+    "id":57,
+    "institute_name": "Institute of Computer Technology",
+    "location":"sri lanka",
     "yourDescription":"student",
     "about":"academic",
-    "review":"One of the topmost topmost college of India",
+    "review":"One of the topmost topmost college of srilanka",
     "rating":"5/5",
-    "date":"30/09/2022"
+    "date":"28/09/2022"
     },
+
     {
     "id": 16,
     "institute_name": "Pimpri Chinchwad College Of Engineering",
@@ -201,8 +203,8 @@
     "rating":"5/5",
     "date":"29/09/2022"
     },
-    {
-    "id":20,
+     {
+    "id":16,
     "institute_name": "Vishwakarma institute of technology",
     "location":"india",
     "your description":"student",
@@ -210,7 +212,9 @@
     "review":"Best college for engineering",
     "rating":"5/5",
     "date":"30/09/2022"
+
     },
+    
    {
     "id":21,
     "institute_name": "Rajaram bapu institute of technology",
@@ -223,12 +227,24 @@
     },
     {
     "id":22,
-    "institute_name": "Sanjay Ghodawat University,atigre",
+    "institute_name": "College Of Engineering Pune",
     "location":"india",
     "yourDescription":"student",
     "about":"academic",
-    "review":"Best college for Engineering",
-    "rating":"4.4/5",
+    "review":"One of the best college",
+    "rating":"4.5/5",
+    "date":"30/09/2022"
+    },
+    {
+    "id":23,
+
+    "institute_name": "Sanjay Ghodawat University,atigre",
+
+    "location":"india",
+    "your description":"student",
+    "about":"academic",
+    "review":"Centres of Excellence for training, research and development in science, engineering and technology in India.",
+    "rating":"5/5",
     "date":"30/09/2022"
     },
     {
@@ -241,16 +257,41 @@
     "rating":"4/5",
     "date":"30/09/2022"
     },
+
     {
+        "id":24,
+
+        "institute_name": "Visvesvaraya National Institute Of Technology",
+        "location":"india",
+        "yourDescription":"student",
+        "about":"academic",
+        "review":"Best college for Engineering",
+        "rating":"4.5/5",
+        "date":"30/09/2022"
+    },
+    {
+
     "id":25,
-    "institute_name": "Visvesvaraya National Institute Of Technology",
+
+    "institute_name": "Tatyasaheb Kore Institute of Engineering and Technology",
     "location":"india",
     "yourDescription":"student",
     "about":"academic",
-    "review":"Best college for Engineering",
-    "rating":"4.5/5",
-    "date":"30/09/2022",
+    "review":"Best college for Engineering and Nature lovers",
+    "rating":"4/5",
+    "date":"30/09/2022"
     },
+    {
+    "institute_name": "Visvesvaraya National Institute Of Technology",
+
+    "institute_name": "Amrita Vishwa Vidyapeetham",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"The college is one of the best engineering and top-ranking engineering institute in India",
+    "rating":"4.5/5",
+    "date":"30/09/2022"
+    },    
     {
     "id":26,
     "institute_name": "VJTI",
@@ -262,13 +303,160 @@
     "date":"30/09/2022"
     },
     {
-    "id":27,
+    "id":14,
     "institute_name": "Indian Institute of Technology, Guwahati",
     "location":"india",
     "yourDescription":"student",
     "about":"academic",
     "review":"One of the topmost topmost college of India",
     "rating":"5/5",
+    "date":"30/09/2022"
+
+    },  
+    {
+        "id":27,
+        "institute_name": "Visvesvaraya National Institute Of Technology",
+        "location":"India",
+        "your description":"Student",
+        "about":"Academic",
+        "review":"Best college for Engineering",
+        "rating":"4.5/5",
+        "date":"01/10/2022"
+    },
+     {
+    "id":27,
+    "institute_name": "Shri Ramdeobaba College of Engineering and Management",
+    "location":"india",
+    "yourDescription":"Student",
+    "about":"Academic",
+    "review":"Placement is good enough. Lots of opportunities are available. More than 75% are placed, with an average package of around 5 lakh and a maximum package of more than 20 lakh.",
+    "rating":"4/5",
+    "date":"30/09/2022"
+    },
+    {
+    "id":28,
+    "institute_name": "Lokmanya Tilak Municipal Medical College Sion, Mumbai",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"One of the topmost medical college in india",
+    "rating":"5/5",
+    "date":"30/09/2022"
+    },
+    {
+    "id":29,
+
+    "institute_name": "National Institute of Technology,Nagpur",
+
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"One of the top most college for Engineering",
+    "rating":"4.7/5",
+    "date":"01/10/2022"
+    },
+{
+    "institute_name": "Indian institute of technology,gandhinagar",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Best college for Engineering with well maintained hostel and huge library ",
+    "rating":"4.2/5",
+    "date":"1/10/2022"
+    },
+
+    {
+    "id":30,
+    "institute_name": "Shri Guru Gobind Singhji Institute of Engineering and Technology Nanded",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"SGGS has maintained a very good profile since last some years",
+    "rating":"4.1/5"
+    },
+
+    {
+    "id":31,
+    "institute_name": "Indian Institute of Technology,Jodhpur",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"One of the good college of India",
+    "rating":"5/5",
+    "date":"30/09/2021"
+    },
+    {
+    "id":35,
+    "institute_name": "Faculty of Management Studies",
+    "location":"India",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Best management college in India",
+    "rating":"5/5",
+    "date":"30/09/2022"
+    },
+{
+    "id":32,
+    "institute_name": "Indraprastha Institute of Information Technology",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Best college for Engineering",
+    "rating":"4.5/5",
+    "date":"30/09/2022"
+    },
+    {
+    "id":26,
+    "institute_name": "Indian Institute of Technology Delhi",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Best college for Engineering",
+    "rating":"4.8/5",
+    "date":"1/10/2022"
+    },
+
+     {
+    "id":33,
+    "institute_name": "IIIT Hyderabad",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Best college for  Computer Science Engineering",
+    "rating":"4.9/5",
+    "date":"30/09/2022"
+    },
+
+
+    {
+    "id":34,
+    "institute_name": "Sardar patel institute of technology",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"One of the topmost college of India",
+    "rating":"5/5",
+    "date":"1/10/2022"
+    },
+
+    {
+    "id":34,
+    "institute_name": "SSVPS",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"6th rank among All iits",
+    "rating":"5/5",
+    "date":"1/10/2022"
+    },
+    {
+    "id":26,
+    "institute_name": "Indian Institute of Science Public university in Bengaluru, Karnataka",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"Academics and culture",
+    "review":"Excellent college for Research and Development in India",
+    "rating":"4.7/5",
     "date":"30/09/2022"
     },
      {
@@ -281,6 +469,128 @@
     "rating":"3/5",
     "date":"30/09/2022"
     },
+    {
+    "id":16,
+    "institute_name": "hogwart",
+    "location":"LOndon",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"One of the topmost topmost college of magic",
+    "rating":"5/5",
+    "date":"30/09/1800"
+    },
+    {
+        "id":35,
+        "institute_name": "Government College of Engineering, Amravati",
+        "location":"india",
+        "yourDescription":"student",
+        "about":"academic",
+        "review":"One of the topmost topmost college of Maharashtra, India",
+        "rating":"3/5",
+        "date":"30/09/2022"
+    },
+     {
+    "id":36,
+    "institute_name": "Indian Institute of Technology Kharagpur",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Best college for Engineering in India",
+    "rating":"4.9/5",
+    "date":"30/09/2022"
+    },
+    {
+    "id":36,
+    "institute_name": "Walchand Institute of Technollogy",
+    "location":"Solapur",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Good college for Engineering",
+    "rating":"2.4/5",
+    "date":"30/09/2022"
+    },
+    {
+    "id":23,
+    "institute_name": "Fergusson College,Pune",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Best college for Arts & Literature",
+    "rating":"4.8/5",
+    "date":"30/09/2022"
+    },
+    {
+        "id":26,
+        "institute_name": "Dr. DY Patil Institute of Technology",
+        "location":"India",
+        "yourDescription":"Student",
+        "about":"Academic",
+        "review":"Great Infra and Opportunities",
+        "rating":"4.5/5"
+    },
+    
+    {
+    "id":24,
+    "institute_name": "Visvesvaraya National Institute Of Technology",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Best college for Engineering",
+    "rating":"4.9/5",
+    "date":"30/09/2022"
+    },
+{
+    "id":25,
+    "institute_name": "KIT",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Gpod college for Engineering",
+    "rating":"4.5/5",
+    "date":"30/09/2022"
+    },
+    {
+    "id":26,
+    "institute_name": "IIT Kanpur",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Best college for Engineering",
+    "rating":"4.8/5",
+    "date":"30/09/2022"
+    },
 
+    {
+    "id":7008,
+    "institute_name": "S.V.P.M.'s ITE Malegaon Bk.",
+    "location":"Baramati",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Worst college for Engineering",
+    "rating":"0.8/5",
+    "date":"30/09/2022"
+    },
+   {
+    "id":27,
+    "institute_name": "Institute of Chemical Technology",
+    "location":"Mumbai",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Best college for chemical engineering",
+    "rating":"4.5/5",
+    "date":"01/10/2022"
+  
+ },
 
+{
+    "id":27,
+    "institute_name": "Sinhagad College of Engineering Pune",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"college for Engineering in Pune",
+    "rating":"4.5/5",
+    "date":"30/09/2022"
+    }
 ]
+
