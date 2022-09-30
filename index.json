@@ -611,6 +611,16 @@
         "review": "It is a good college in Delhi NCR region. Fees is not too high as compared to other private colleges. Teachers are mixed bag. Some teachers are good and some are trash. You can apply for UP Scholarship if you complete the criteria. The only downside is that AKTU management is very bad.",
         "rating": "4.0/5",
         "date": "01/10/2022"
-      }  
+      } ,
+      {
+    "id":31,
+    "institute_name": "Walchand College of Engineering Sangli",
+    "location":"India",
+    "yourDescription":"Student",
+    "about":"Academic",
+    "review":"Great Infra and Opportunities with amazing placements",
+    "rating":"4.5/5",
+    "date":"01/10/2022"
+    }
 ]
 
