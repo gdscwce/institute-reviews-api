@@ -9,6 +9,16 @@
     "rating":"4.0/5",
     "date":"29/09/2022"
     },
+        {
+    "id":306,
+    "institute_name": "Patkar-Varde College",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"Alumni",
+    "review":"Best college for Science 11 and 12",
+    "rating":"4.2/5",
+    "date":"01/10/2022"
+    },
     {
     "id":2,
     "institute_name": "Dr. DY Patil Institute of Technology",
