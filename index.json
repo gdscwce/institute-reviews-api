@@ -585,5 +585,90 @@
         "review": "Best college for engineering",
         "rating": "4.2/5",
         "date": "1/10/2022"
-    }
+    },
+    
+    {
+    "id":24,
+    "institute_name": "Visvesvaraya National Institute Of Technology",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Best college for Engineering",
+    "rating":"4.9/5",
+    "date":"30/09/2022"
+    },
+{
+    "id":25,
+    "institute_name": "KIT",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Gpod college for Engineering",
+    "rating":"4.5/5",
+    "date":"30/09/2022"
+    },
+    {
+    "id":26,
+    "institute_name": "IIT Kanpur",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Best college for Engineering",
+    "rating":"4.8/5",
+    "date":"30/09/2022"
+    },
+
+    {
+    "id":7008,
+    "institute_name": "S.V.P.M.'s ITE Malegaon Bk.",
+    "location":"Baramati",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Worst college for Engineering",
+    "rating":"0.8/5",
+    "date":"30/09/2022"
+    },
+   {
+    "id":27,
+    "institute_name": "Institute of Chemical Technology",
+    "location":"Mumbai",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Best college for chemical engineering",
+    "rating":"4.5/5",
+    "date":"01/10/2022"
+  
+ },
+
+{
+    "id":28,
+    "institute_name": "Sinhagad College of Engineering Pune",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"college for Engineering in Pune",
+    "rating":"4.5/5",
+    "date":"30/09/2022"
+    },
+ {
+    "id":29,
+    "institute_name": "laxminarayan institute of technology",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"one of the top 5 colleges for chemical engineering",
+    "rating":"4.2/5",
+    "date":"30/09/2022"
+    },
+    
+      {
+    "id":30,
+    "institute_name": "Walchand College of Engineering Sangli",
+    "location":"India",
+    "yourDescription":"Student",
+    "about":"Academic",
+    "review":"Great Infra and Opportunities with amazing placements",
+    "rating":"4.5/5",
+    "date":"01/10/2022"
+    },
 ]
