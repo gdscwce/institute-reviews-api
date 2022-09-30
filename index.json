@@ -526,6 +526,16 @@
     "review":"Worst college for Engineering",
     "rating":"0.8/5",
     "date":"30/09/2022"
+    },
+   {
+    "id":27,
+    "institute_name": "Institute of Chemical Technology",
+    "location":"Mumbai",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Best college for chemical engineering",
+    "rating":"4.5/5",
+    "date":"01/10/2022"
     }
 
 ]
