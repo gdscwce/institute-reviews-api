@@ -223,16 +223,6 @@
     },
     {
     "id":22,
-    "institute_name": "Colleger Of Engineering Pune",
-    "location":"india",
-    "yourDescription":"student",
-    "about":"academic",
-    "review":"One of the best college",
-    "rating":"4.5/5",
-    "date":"30/09/2022",
-    },
-    {
-    "id":23,
     "institute_name": "Sanjay Ghodawat University,atigre",
     "location":"india",
     "yourDescription":"student",
@@ -272,7 +262,7 @@
     "date":"30/09/2022"
     },
     {
-    "id":27,
+    "id":14,
     "institute_name": "Indian Institute of Technology, Guwahati",
     "location":"india",
     "yourDescription":"student",
@@ -281,6 +271,17 @@
     "rating":"5/5",
     "date":"30/09/2022"
     },
+     {
+    "id":16,
+    "institute_name": "hogwart",
+    "location":"LOndon",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"One of the topmost topmost college of magic",
+    "rating":"5/5",
+    "date":"30/09/1800"
+    },
+
 
 
 ]
