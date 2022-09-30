@@ -194,9 +194,6 @@
     "date":"30/09/2022"
     },
     {
-
-    "id":18,
-    "institute_name": "Government Polytechnic Amravati",
     "id":19,
     "institute_name": "Government Polytechnic, Amravati",
     "location":"india",
@@ -274,6 +271,17 @@
     {
 
     "id":25,
+
+    "institute_name": "Tatyasaheb Kore Institute of Engineering and Technology",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Best college for Engineering and Nature lovers",
+    "rating":"4/5",
+    "date":"30/09/2022"
+    },
+    {
+
     "institute_name": "Amrita Vishwa Vidyapeetham",
     "location":"india",
     "yourDescription":"student",
@@ -292,18 +300,6 @@
     "rating":"4.5/5",
     "date":"30/09/2022"
     },
-
-      {
-    "id":27,
-    "institute_name": "K K Wagh college of Engineering, Sangli",
-    "location":"india",
-    "yourDescription":"student",
-    "about":"academic",
-    "review":"Average college for Engineering",
-    "rating":"4.6/5",
-    "date":"01/10/2022",
-    },
-
     {
     "id":27,
     "institute_name": "Indian Institute of Technology, Guwahati",
@@ -325,15 +321,20 @@
         "rating":"4.5/5",
         "date":"01/10/2022"
     },
+     {
+    "id":27,
+    "institute_name": "Shri Ramdeobaba College of Engineering and Management",
+    "location":"india",
+    "yourDescription":"Student",
+    "about":"Academic",
+    "review":"Placement is good enough. Lots of opportunities are available. More than 75% are placed, with an average package of around 5 lakh and a maximum package of more than 20 lakh.",
+    "rating":"4/5",
+    "date":"30/09/2022"
+    },
     {
     "id":28,
 
-    "institute_name": "Indraprastha Institute of Information Technology",
-    "location":"india",
-    "yourDescription":"student",
-    "about":"academic",
-    "review":"Best college for Engineering",
-
+   
     "institute_name": "Lokmanya Tilak Municipal Medical College Sion, Mumbai",
     "location":"india",
     "yourDescription":"student",
@@ -391,8 +392,21 @@
     "rating":"4.5/5",
     "date":"30/09/2022"
     },
-    {
+
+     {
     "id":33,
+    "institute_name": "IIIT Hyderabad",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Best college for  Computer Science Engineering",
+    "rating":"4.9/5",
+    "date":"30/09/2022"
+    },
+
+
+    {
+    "id":34,
     "institute_name": "Sardar patel institute of technology",
     "location":"india",
     "yourDescription":"student",
@@ -454,18 +468,6 @@
     "rating":"2.4/5",
     "date":"30/09/2022"
     },
-
-{
-    "id":37,
-    "institute_name": "walchand college of engineering, sangli",
-    "location":"Sangli",
-    "yourDescription":"student",
-    "about":"campus",
-    "review":"Best college for Engineering",
-    "rating":"4.5/5",
-    "date":"01/10/2022"
-},
-
     {
     "id":23,
     "institute_name": "Fergusson College,Pune",
@@ -475,7 +477,7 @@
     "review":"Best college for Arts & Literature",
     "rating":"4.8/5",
     "date":"30/09/2022"
-    }
+   },
 {
     "id":26,
     "institute_name": "Dr. DY Patil Institute of Technology",
@@ -483,7 +485,7 @@
     "yourDescription":"Student",
     "about":"Academic",
     "review":"Great Infra and Opportunities",
-    "rating":"4.5/5",
+    "rating":"4.5/5"
 },
     
     {
@@ -494,7 +496,7 @@
     "about":"academic",
     "review":"Best college for Engineering",
     "rating":"4.9/5",
-    "date":"30/09/2022",
+    "date":"30/09/2022"
 
     },
 {
@@ -536,6 +538,5 @@
     "review":"Best college for chemical engineering",
     "rating":"4.5/5",
     "date":"01/10/2022"
-    }
-
-]
+  
+ }
