@@ -302,7 +302,7 @@
     "date":"30/09/2022"
     },
     {
-    "id":27,
+    "id":14,
     "institute_name": "Indian Institute of Technology, Guwahati",
     "location":"india",
     "yourDescription":"student",
@@ -458,6 +458,17 @@
     "rating":"4.7/5",
     "date":"30/09/2022"
     },
+     {
+    "id":16,
+    "institute_name": "hogwart",
+    "location":"LOndon",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"One of the topmost topmost college of magic",
+    "rating":"5/5",
+    "date":"30/09/1800"
+    },
+
 
 
     {
@@ -561,7 +572,7 @@
     "rating":"4.5/5",
     "date":"01/10/2022"
   
- }
+ },
 
 {
     "id":27,
