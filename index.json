@@ -679,5 +679,15 @@
     "review":"Great Infra and Opportunities with amazing placements",
     "rating":"4.5/5",
     "date":"01/10/2022"
+    },
+    {
+    "id":32,
+    "institute_name": "RIT,Islampur",
+    "location":"India",
+    "yourDescription":"Student",
+    "about":"Campus",
+    "review":"Great Infra and surroundings are so clean and beautiful",
+    "rating":"3.5/5",
+    "date":"01/10/2022"
     }
 ]
