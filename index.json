@@ -726,6 +726,16 @@
     "rating":"3.5/5",
     "date":"01/10/2022"
 
+    },
+    {
+        "id": 65,
+        "institute_name": "Government Polytechnic, Kolhapur",
+        "location": "India",
+        "yourDescription": "Student",
+        "about": "Academic",
+        "review": "Great Infra and Opportunities",
+        "rating": "4.0/5",
+        "date": "02/10/2022"
     }
 ]
 
