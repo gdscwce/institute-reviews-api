@@ -696,6 +696,16 @@
     "rating":"4.5/5",
     "date":"01/10/2022"
     },
+     {
+    "id":114,
+    "institute_name": "Chintamanrao college of MBA and BBA",
+    "location":"India",
+    "yourDescription":"Student",
+    "about":"Academic",
+    "review":"Best college for MBA and BBA",
+    "rating":"4.7/5",
+    "date":"01/10/2022"
+    },
     {
     "id":32,
     "institute_name": "RIT,Islampur",
@@ -707,3 +717,4 @@
     "date":"01/10/2022"
     }
 ]
+
