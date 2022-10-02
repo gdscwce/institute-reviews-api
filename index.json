@@ -737,6 +737,17 @@
     "rating":"3.5/5",
     "date":"01/10/2022"
 
+    },
+         {
+    "id":34,
+    "institute_name": "Sanjay Ghodawat IIT and Medical Acadmey",
+    "location":"India",
+    "yourDescription":" Ex Student",
+    "about":"Campus",
+    "review":"Amazing infrastructure and greenery at its best",
+    "rating":"5/5",
+    "date":"02/10/2022"
+
     }
-]
+    ]
 
