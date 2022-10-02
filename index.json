@@ -737,6 +737,17 @@
     "rating":"3.5/5",
     "date":"01/10/2022"
 
+    },
+    {
+    "id":34,
+    "institute_name": "Modern college of arts, Science and Commerce, shivajinagar, pune 5",
+    "location":"India",
+    "yourDescription":"Student",
+    "about":"Campus",
+    "review":"Great Infra but compact and still full of greenary",
+    "rating":"4/5",
+    "date":"02/10/2022"
+
     }
 ]
 
