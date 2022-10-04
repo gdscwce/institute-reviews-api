@@ -737,6 +737,17 @@
     "rating":"3.5/5",
     "date":"01/10/2022"
 
+    },
+    {
+    "id":34,
+    "institute_name": "Shri Ramdeobaba college of engineering and managment,nagpur",
+    "location":"India",
+    "yourDescription":"Student",
+    "about":"Academic",
+    "review":"amazing placements",
+    "rating":"8.1/10",
+    "date":"04/10/2022"
+
     }
 ]
 
