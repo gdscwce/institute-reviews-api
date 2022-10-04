@@ -737,6 +737,17 @@
     "rating":"3.5/5",
     "date":"01/10/2022"
 
+    },
+    {
+    "id":34,
+    "institute_name": "JECRC University, Jaipur",
+    "location":"India",
+    "yourDescription":"Student",
+    "about":"Course curriculum",
+    "review":"It has new and well structured course curriculum",
+    "rating":"4/5",
+    "date":"04/10/2022"
+
     }
 ]
 
