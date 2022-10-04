@@ -269,9 +269,8 @@
         "rating": "4/5",
         "date": "30/09/2022"
     },
-    {
+    {  "id": 26,
         "institute_name": "Visvesvaraya National Institute Of Technology",
-        "institute_name": "Amrita Vishwa Vidyapeetham",
         "location": "india",
         "yourDescription": "student",
         "about": "academic",
@@ -737,6 +736,19 @@
     "rating":"3.5/5",
     "date":"01/10/2022"
 
-    }
+    },
+    {
+        "id":3,
+        "institute_name": "Sardar Patel Polytechnic College",
+        "location":"India",
+        "yourDescription":"Student",
+        "about":"Academics",
+        "review":"ok ok",
+        "rating":"1/5",
+        "date":"04/10/2022"
+    
+        }
+
+
 ]
 
