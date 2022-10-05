@@ -737,6 +737,17 @@
     "rating":"3.5/5",
     "date":"01/10/2022"
 
+    },
+    {
+    "id":34,
+    "institute_name": "Mahatma Jyotiba Phule Rohilkhand University",
+    "location":"India",
+    "yourDescription":"Student",
+    "about":"Campus",
+    "review":"Best Govt University comes in TOP3",
+    "rating":"3.5/5",
+    "date":"05/10/2022"
+
     }
 ]
 
