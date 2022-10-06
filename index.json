@@ -737,6 +737,16 @@
     "rating":"3.5/5",
     "date":"01/10/2022"
 
-    }
+    },
+    {
+    "id":34,
+    "institute_name": "Government Engineering College, Rajkot",
+    "location":"India",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Best college for Engineering in Rajkot",
+    "rating":"4.0/5",
+    "date":"06/10/2022"
+}
 ]
 
