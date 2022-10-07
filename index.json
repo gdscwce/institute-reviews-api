@@ -737,6 +737,17 @@
     "rating":"3.5/5",
     "date":"01/10/2022"
 
+    },
+    {
+    "id":34,
+    "institute_name": "DY PATIL COLLEGE OF ENGINEERING ,
+    "location":"India",
+    "yourDescription":"Student",
+    "about":"Campus",
+    "review":"Great Infra and surroundings are so clean and beautiful",
+    "rating":"4.5/5",
+    "date":"07/10/2022"
+
     }
 ]
 
