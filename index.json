@@ -737,6 +737,17 @@
     "rating":"3.5/5",
     "date":"01/10/2022"
 
+    },
+         {
+    "id":35,
+    "institute_name": "Someshwar College of Engineering",
+    "location":"Baramati",
+    "yourDescription":"Student",
+    "about":"Campus",
+    "review":"Great Infrastructure and surroundings are so clean and beautiful and also some privilages are available",
+    "rating":"3/5",
+    "date":"08/10/2022"
+
     }
 ]
 
