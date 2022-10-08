@@ -737,6 +737,17 @@
     "rating":"3.5/5",
     "date":"01/10/2022"
 
-    }
+    },
+    {
+        "id":33,
+        "institute_name": "MNNIT Allahabad",
+        "location":"India",
+        "yourDescription":"Student",
+        "about":"Campus",
+        "review":"Great Infra and surroundings are so clean and beautiful",
+        "rating":"5/5",
+        "date":"08/10/2022"
+    
+        }
 ]
 
