@@ -271,7 +271,6 @@
     },
     {
         "institute_name": "Visvesvaraya National Institute Of Technology",
-        "institute_name": "Amrita Vishwa Vidyapeetham",
         "location": "india",
         "yourDescription": "student",
         "about": "academic",
@@ -737,6 +736,16 @@
     "rating":"3.5/5",
     "date":"01/10/2022"
 
+    },
+    {
+        "id":333,
+        "institute_name": "Motilal Nehru National Institute of Technology Allahabad",
+        "location":"India",
+        "yourDescription":"Student",
+        "about":"Campus",
+        "review":"Great placement",
+        "rating":"4/5",
+        "date":"08/10/2022"
     }
 ]
 
