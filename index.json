@@ -739,6 +739,16 @@
     "rating":"3/5",
     "date":"08/10/2022"
 
-    }
+    },
+    {
+        "id": 7,
+        "institute_name": "S M Joshi",
+        "location": "india",
+        "yourDescription": "student",
+        "about": "academic",
+        "review": "Average college in locality",
+        "rating": "4.0/5",
+        "date": "30/09/2022"
+    },
 ]
 
