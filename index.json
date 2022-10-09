@@ -740,5 +740,16 @@
     "date":"08/10/2022"
 
     }
+    {
+        "id":36,
+        "institute_name": "Indian Institute of Technology(BHU) Varanasi",
+        "location":"Varanasi",
+        "yourDescription":"Student",
+        "about":"Campus",
+        "review":"The hostel's building is below expectations, but all other facilities are quite impressive. Labs, classrooms and the library are perfect. The campus of IIT BHU is very beautiful and lush green. Food facilities are the best, and the canteen's food is good and at a low price.",
+        "rating":"4./5",
+        "date":"09/10/2022"
+    
+        }
 ]
 
