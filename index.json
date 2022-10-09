@@ -739,6 +739,16 @@
     "rating":"3/5",
     "date":"08/10/2022"
 
-    }
+    },
+    {
+        "id": 36,
+        "institute_name": "Manipal Institute of Technology, Manipal",
+        "location": "india",
+        "yourDescription": "student",
+        "about": "academic",
+        "review": "Top notch placements",
+        "rating": "4.3/5",
+        "date": "10/10/2022"
+    },
 ]
 
