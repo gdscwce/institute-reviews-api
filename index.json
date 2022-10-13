@@ -740,5 +740,17 @@
     "date":"08/10/2022"
 
     }
+    ,
+         {
+    "id":37,
+    "institute_name": "Vivekanand College Kolhapur",
+    "location":"Kolhapur",
+    "yourDescription":"Student",
+    "about":"Campus",
+    "review":"Great Infrastructure , good teaching staff",
+    "rating":"3.2/5",
+    "date":"13/10/2022"
+
+    }
 ]
 
