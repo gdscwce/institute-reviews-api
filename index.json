@@ -730,7 +730,7 @@
 
     },
          {
-    "id":35,
+    "id":34,
     "institute_name": "Someshwar College of Engineering",
     "location":"Baramati",
     "yourDescription":"Student",
@@ -738,6 +738,17 @@
     "review":"Great Infrastructure and surroundings are so clean and beautiful and also some privilages are available",
     "rating":"3/5",
     "date":"08/10/2022"
+
+    },
+    {
+    "id":35,
+    "institute_name": "Dr.D Y Patil Institute Of Technology",
+    "location":"Pimpri-Chinchwad",
+    "yourDescription":"Student",
+    "about":"Campus",
+    "review":" Life on the campus is amazing because of the good hostel and mess facilities. Library facilities is also good in college but it can be more spacious as during exam time it always gets full. ",
+    "rating":"4/5",
+    "date":"22/10/2022"
 
     }
 ]
