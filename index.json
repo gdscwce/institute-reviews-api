@@ -739,6 +739,16 @@
     "rating":"3/5",
     "date":"08/10/2022"
 
-    }
+    },
+    {
+  "id":36,
+  "institute_name": "walchand college of engineering, sangli",
+  "location": "india",
+  "yourDescription": "student",
+  "about": "campus & culture",
+  "review": "Best college campus among other colleges in maharastra also has very rich culture",
+  "rating": "4.5/5",
+  "date": "22/10/2022"
+}
 ]
 
