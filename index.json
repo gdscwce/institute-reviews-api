@@ -749,6 +749,17 @@
   "review": "Best college campus among other colleges in maharastra also has very rich culture",
   "rating": "4.5/5",
   "date": "22/10/2022"
+},
+        
+ {
+  "id":37,
+  "institute_name": "St.John College of Engineering",
+  "location": "india",
+  "yourDescription": "student",
+  "about": "campus & culture",
+  "review": "Not a very good college students take admission because they couldn't get into an another institute",
+  "rating": "1.5/5",
+  "date": "25/10/2022"
 }
 ]
 
