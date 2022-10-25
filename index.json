@@ -760,6 +760,16 @@
   "review": "Not a very good college students take admission because they couldn't get into an another institute",
   "rating": "1.5/5",
   "date": "25/10/2022"
+},
+   {
+  "id":3,
+  "institute_name": "YCCE",
+  "location": "india",
+  "yourDescription": "student",
+  "about": "campus & culture",
+  "review": "Among the nicest college, it's speciality is to support student in every direction as they can, NO descrimination for branches they treat each and every branch equally ",
+  "rating": "4/5",
+  "date": "25/10/2022"
 }
 ]
 
